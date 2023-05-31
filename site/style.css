@@ -1,5 +1,5 @@
-body:active {
-    background-color: aqua;
+body {
+    background-color: #1b081b;
 }
 h1 {
     font-family: Roboto, sans-serif;
@@ -11,3 +11,37 @@ h1:active {font-family: Roboto, sans-serif;
     text-align: center;
     font-size: smaller;
 }
+
+div{
+
+    background-color: #04AA6D;
+}
+div#about{
+    position: relative;
+    float: left;
+    top: 80px;
+    border: 5px solid #333;
+    padding: 5px;
+}
+img{position:relative;
+    }
+.topnav {
+    overflow: auto;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #04AA6D;
+    color: black;
+  }
+  
+  
