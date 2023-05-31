@@ -1,0 +1,13 @@
+body:active {
+    background-color: aqua;
+}
+h1 {
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    text-align: center;
+    }
+h1:active {font-family: Roboto, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: smaller;
+}
